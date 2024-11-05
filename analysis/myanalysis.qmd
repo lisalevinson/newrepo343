@@ -3,6 +3,7 @@ title: "my analysis"
 format: 
   html:
     embed-resources: true
+theme: quartz
 ---
 
 ## Quarto
