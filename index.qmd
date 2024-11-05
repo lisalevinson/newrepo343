@@ -1,0 +1,15 @@
+---
+title: "Project Homepage"
+format: 
+  html:
+    embed-resources: true
+---
+
+Hi, welcome to our project!
+
+Here is our analysis page: <https://lisalevinson.github.io/newrepo343/analysis/myanalysis.html>
+
+Here is google: <https://www.google.com>
+
+My analysis is here: [my analysis](analysis/myanalysis.html)
+
